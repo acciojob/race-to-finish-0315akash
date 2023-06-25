@@ -6,7 +6,7 @@ let a = new Promise(resolve =>{
 	},3000)
 })
 
-let  = new Promise(resolve =>{
+let b = new Promise(resolve =>{
 	setTimeout(()=>{
 		resolve("b")
 	},2000)
